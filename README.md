@@ -39,7 +39,7 @@
 🎓 &nbsp;I'm currently studying Computer Science at the Ho Chi Minh City Education of University.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, Deep Learning.\
 ✍️ &nbsp;In my free time, I usually read book, play soccer.\
-✉️ &nbsp;You can shoot me an email at lamtai2105@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at lamtai2105@gmail.com! I'll try to respond as soon as I can.
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
