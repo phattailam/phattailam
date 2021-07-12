@@ -23,7 +23,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Lam Phat Tai a <b>final year</b> undergraduate from <a href="http://fit.hcmup.edu.vn/"> <b>HoChiMinh City Education of University</b>, HoChiMinh </a>. <br>
+    Hello, I am Lam Phat Tai a <b>final year</b> undergraduate from <a href="http://fit.hcmup.edu.vn/"> <b>Ho Chi Minh City Education of University</b>, Ho Chi Minh </a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
@@ -36,7 +36,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science at the HoChiMinh City Education of University.\
+🎓 &nbsp;I'm currently studying Computer Science at the Ho Chi Minh City Education of University.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, Deep Learning.\
 ✍️ &nbsp;In my free time, I usually read book, play soccer.\
 ✉️ &nbsp;You can shoot me an email at lamtai2105@gmail.com! I'll try to respond as soon as I can.\
